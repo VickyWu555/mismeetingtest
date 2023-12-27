@@ -1,0 +1,81 @@
+.navbar
+{
+    border-bottom-right-radius: 15px;
+}
+.title 
+{
+    margin-top: 2px;
+    margin-left: 100px;
+    font-size: 30px;
+    font-weight: bold;
+    color:white;
+}
+.logo
+{
+    margin-top: 5px;
+    position:fixed;
+    left: 0;
+    top: 0;
+}
+.text
+{
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 30px;
+}
+.inputDate
+{
+    border-radius: 15px;
+    border-style: solid;
+    margin-left: 30px;
+    margin-right: 10px;
+    padding-left: 10px;
+    background-image: url('../image/日曆.png');
+    background-repeat: no-repeat;
+    background-position: 150px;
+    background-size: 35px;
+    width: 190px;
+    height: 30px;
+}
+.inputTime
+{
+    border-radius: 15px;
+    border-style: solid;
+    margin-left: 30px;
+    margin-right: 10px;
+    padding-left: 10px;
+    background-image: url('../image/時鐘.png');
+    background-repeat: no-repeat;
+    background-position: 65px;
+    background-size: 30px;
+    width: 100px;
+    height: 30px;
+}
+.dropdown
+{
+    border-radius: 15px;
+    border-style: solid;
+    margin-left: 30px;
+    padding-left: 10px;
+    width: 190px;
+    height: 30px;
+}
+.DateButton
+{
+    border: none;
+    background-color: #f7f1f1;
+}
+.ButtonStyle
+{
+    font-weight: bold;
+    border-radius: 15px;
+    border-style: solid;
+    color: #fff;
+    background-color: #586d9a;
+    border-color: #586d9a;
+    margin: 30px;
+    width:100px;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
